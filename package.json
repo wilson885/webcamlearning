@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "^1.2.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "node-osc": "^4.1.1",
     "vega-embed": "^3.0.0"
   },
